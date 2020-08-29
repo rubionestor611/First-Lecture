@@ -5,3 +5,5 @@ write in present tense:
 	"fixes a bug"
 	not "fixed a bug"
 git commit -a
+
+git is really useful
