@@ -1,5 +1,9 @@
 public class HelloWorld {
     public static void main(String[] arg){
-        System.out.println("Hello World! I can now print from intelli j in a new form.");
+        if (arg.length == 0){
+            System.out.println("No arguments?");
+        }else{
+            System.out.println("Don't argue with me.");
+        }
     }
 }
